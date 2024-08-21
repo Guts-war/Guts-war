@@ -1,6 +1,7 @@
 
 BEM-VINDO AO MEU PERFIL ;-;
 
+Meu nome é Arthur Francisco
 Atualmente estou estudano Alura
 Estou aprendendo JavaScript
 
